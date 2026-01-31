@@ -12,8 +12,8 @@
 // @grant        GM_registerMenuCommand
 // @grant        GM_addStyle
 // @license      GPLv3
-// @downloadURL  https://github.com/CookSleep/vscode-installer/raw/main/vscode-installer.user.js
-// @updateURL    https://github.com/CookSleep/vscode-installer/raw/main/vscode-installer.user.js
+// @downloadURL  https://github.com/CookSleep/VSCode-Marketplace-Protocol-Switcher/raw/main/vscode-installer.user.js
+// @updateURL    https://github.com/CookSleep/VSCode-Marketplace-Protocol-Switcher/raw/main/vscode-installer.user.js
 // ==/UserScript==
 
 (function () {
