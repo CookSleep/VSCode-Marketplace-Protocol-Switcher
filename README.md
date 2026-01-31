@@ -32,7 +32,7 @@ You need a script manager like **Tampermonkey** installed in your browser.
 1. Install Tampermonkey ([Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) / [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/)).
 2. Click the link below to install the script:
    
-   👉 **[Install VSCode Marketplace Protocol Switcher](https://github.com/CookSleep/VSCode-Protocol-Switcher/raw/main/vscode-installer.user.js)**
+   👉 **[Install VSCode Marketplace Protocol Switcher](https://github.com/CookSleep/VSCode-Marketplace-Protocol-Switcher/raw/main/vscode-installer.user.js)**
 3. Open any extension page on [VSCode Marketplace](https://marketplace.visualstudio.com/).
 4. Enjoy your customized installation experience!
 

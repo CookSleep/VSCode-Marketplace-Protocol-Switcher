@@ -32,7 +32,7 @@
 1. 安装 Tampermonkey 插件 ([Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) / [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/))。
 2. 点击下方链接直接安装脚本：
    
-   👉 **[点击安装 VSCode 市场协议切换器](https://github.com/CookSleep/VSCode-Protocol-Switcher/raw/main/vscode-installer.user.js)**
+   👉 **[点击安装 VSCode 市场协议切换器](https://github.com/CookSleep/VSCode-Marketplace-Protocol-Switcher/raw/main/vscode-installer.user.js)**
 3. 打开 [VSCode 市场](https://marketplace.visualstudio.com/) 的任何插件页面。
 4. 开始享受自定义安装体验！
 
